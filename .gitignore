@@ -1,2 +1,7 @@
 # Dependency directories
 node_modules/
+
+
+# .DS_Store file
+.DS_Store
+src/.DS_Store
